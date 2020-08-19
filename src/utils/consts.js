@@ -1,0 +1,1 @@
+var firefase = require ("../../libs/firebase");
